@@ -2,7 +2,7 @@
 
 1. Go to green "Code" button and choose "Download ZIP", then save the folder on your computer
 2. Unzip the folder
-3. Open Anaconda Navigator and open a Jupyter notebook
+3. Open Anaconda Navigator and launch a Jupyter notebook
 4. Navigate to the folder you just unzipped and open the .ipynb
 
 Let's get started : )
